@@ -3,6 +3,8 @@
 The game expects data in format: 'Accel => X:val Y:val Z:val | Gyro => X:val Y:val Z:val'
 """
 
+import utils.transport
+import utils.session
 import sys
 import math
 import time
