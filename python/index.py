@@ -14,7 +14,7 @@ WIDTH, HEIGHT = 800, 600
 pygame.init()
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("3D Colored Cube Controlled by MPU6050")
-clock = pygame.time.Clock()
+clock = pygame.time.Clrock()
 # ---------------------------
 # Cube Definition
 # ---------------------------
